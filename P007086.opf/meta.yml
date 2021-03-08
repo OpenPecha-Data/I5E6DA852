@@ -5,18 +5,16 @@ source_metadata:
   title: མི་ལ་རས་པའི་རྣམ་མགུར
   author: ''
   volumes:
-    12ec2ce3cbc14c16afdd49ac0ebaf992:
+    ff454dffeec34890a8a65ca856e01f7b:
       image_group_id: I1CZ2041
-      title: Volume 1 of mi la ras pa'i rnam mgur
+      title: ''
       volume_number: 1
       total_pages: 300
-      base_file: v001.txt
-    8d0012ea5a304b5ca87e2d2923b3781c:
+    e93f5537e6d3450f915329e74c7dbc0a:
       image_group_id: I1CZ2042
-      title: Volume 2 of mi la ras pa'i rnam mgur
+      title: ''
       volume_number: 2
       total_pages: 640
-      base_file: v002.txt
 ebook_metadata:
   title: མི་ལ་རས་པའི་རྣམ་མགུར
   author: ''
